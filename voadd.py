@@ -6,3 +6,5 @@ print (c)
 
 d = a + c
 print(d)
+
+e = d + 1
